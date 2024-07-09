@@ -94,8 +94,6 @@ We will help you with product implementation so that you can fully focus on mark
 | Custom design       | Only logo & colors | Yes           | Yes            |
 | Pricing             | $10,000            | $20,000       | Contact Us     |
 
-![TapSwap Discount Offer](/images/discount.jpg "TapSwap Discount Offer")
-
 [![OmiSoft Telegram with Special Offers](/images/telegram.jpg)](https://t.me/omisoftoffers)
 
 ## Live Demo
